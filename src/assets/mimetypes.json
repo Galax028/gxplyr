@@ -1,0 +1,9 @@
+{
+    "aac": "audio/aac",
+    "mp3": "audio/mpeg",
+    "m4a": "audio/mp4",
+    "ogg": "audio/ogg",
+    "opus": "audio/opus",
+    "wav": "audio/wav",
+    "webm": "audio/webm"
+}
